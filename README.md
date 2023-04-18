@@ -66,3 +66,34 @@
         <p>  Exotic Breaks can also take you off the beaten track and lead you to discover all that <b>Far East</b> and<b> Aisa</b> have to <br> offer Combine adventure with relaxation and head into the <b> Indian Ocean</b> and the islands of the <b> Maldives</b></p>
 
         <p>  Over the summer months, why not try a little adventure and fly to <b>Kenya</b> to experience a breathtaking safari. During July <br> and August the water level is lower and wild animals flock to water holes making the sighting of incredible beasts such as <br> lions, elephants and zebra even more likely for onlookers.</p>
+<p>  Whatever exotic break you are craving, the perfect solution is out there for you!</p><br>
+      <td valign="bottom">
+       &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="images\P1.JPG"><br>&nbsp&nbsp&nbsp&nbsp&nbsp
+      </td>
+    </tr>
+  </table><br>
+  <table align="center">
+  <tr>
+    <td>
+       <a href="file:///D:/pre%20batch%20102/pg1.html" style="text-decoration: none;">Home - </a>
+      <a href="file:///D:/pre%20batch%20102/pg2.html" style="text-decoration: none;">Far East - </a>
+      <a href="file:///D:/pre%20batch%20102/pg3.html" style="text-decoration: none;">Africa - </a>
+      <a href="file:///D:/pre%20batch%20102/pg4.html" style="text-decoration: none;">South America - </a>
+      <a href="file:///D:/pre%20batch%20102/pg5.html" style="text-decoration: none;">Search - </a>
+      <a href="file:///D:/pre%20batch%20102/pg7.html" style="text-decoration: none;">Feedback - </a>
+      <a href="file:///D:/pre%20batch%20102/pg8.html" style="text-decoration: none;">Contact Us</a>
+    </td>  
+  </tr>
+</table>
+
+  <table align="center">
+    <tr>
+      <td><i>Designed and maintained by Thaw Han Htut</i></td>
+    </tr>
+    <br>
+    <tr>
+      <td align="center">Last updated April 2023</td>
+    </tr>
+  </table>
+</body>
+</html>
